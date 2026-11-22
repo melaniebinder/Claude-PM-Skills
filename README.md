@@ -8,6 +8,8 @@ A collection of Claude skills I built to make product management work faster and
 |-------|--------------|-------------|
 | [ai-feature-spec](skills/ai-feature-spec) | Turns an AI feature idea into a decision-ready spec: model choice, eval plan, failure modes, guardrails, and cost | You're scoping, pitching, or reviewing any LLM-powered feature |
 | [experiment-design](skills/experiment-design) | Builds a pre-registered A/B test plan: metric tree, randomization unit, power math, and decision rules | You need to prove a launch's impact, or catch a flawed test plan before it runs |
+| [prd-stress-test](skills/prd-stress-test) | Reviews a PRD like a skeptical leadership review: assumption audit, ranked issues with fixes, likely questions, and rewrites | Your PRD goes to review soon, or you're giving a teammate feedback |
+| [exec-narrative](skills/exec-narrative) | Turns messy notes into a decision-ready exec memo: ask up front, tenets, options, recommendation, FAQ | You need a leadership decision, funding, or headcount in one meeting |
 
 ## How to use
 
