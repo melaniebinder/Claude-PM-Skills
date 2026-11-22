@@ -10,6 +10,7 @@ A collection of Claude skills I built to make product management work faster and
 | [experiment-design](skills/experiment-design) | Builds a pre-registered A/B test plan: metric tree, randomization unit, power math, and decision rules | You need to prove a launch's impact, or catch a flawed test plan before it runs |
 | [prd-stress-test](skills/prd-stress-test) | Reviews a PRD like a skeptical leadership review: assumption audit, ranked issues with fixes, likely questions, and rewrites | Your PRD goes to review soon, or you're giving a teammate feedback |
 | [exec-narrative](skills/exec-narrative) | Turns messy notes into a decision-ready exec memo: ask up front, tenets, options, recommendation, FAQ | You need a leadership decision, funding, or headcount in one meeting |
+| [design-taste-sparring](skills/design-taste-sparring) | Sharpens design taste: makes you commit to a call, challenges it with named principles, and scores your reasoning; includes AI-UX lenses and a drill mode | You're reviewing a design or prototype, or want to build product taste deliberately |
 
 ## How to use
 
